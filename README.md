@@ -14,3 +14,7 @@ Esta sección fue agregada después de publicar el repositorio en
 GitHub.
 Estoy aprendiendo a sincronizar cambios entre mi repositorio local y
 remoto.
+## Actualización desde repositorio clonado
+Estos cambios se realizaron desde una copia clonada del proyecto.
+Estoy practicando cómo sincronizar cambios desde un clon hacia
+GitHub.
